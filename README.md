@@ -25,3 +25,8 @@ Any computer setup able to run the software specifications below.
 # Database Structure.
 ![Database Schema](./images/database.png)
 *The structure of the database is as shown above.*
+
+# Gallery of the system overview
+## Landing Page
+![Landing Page](./images/landing.png)
+*Current Landing Page Image*
