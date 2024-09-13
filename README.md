@@ -21,6 +21,7 @@ Any computer setup able to run the software specifications below.
 - PHP v8.x^
 - Laravel 11.x^
 - Mysql - (or an alternative DBMS)
+- NPM
 
 # Database Structure.
 ![Database Schema](./images/database.png)
@@ -42,3 +43,9 @@ Any computer setup able to run the software specifications below.
 ## Form sample
 ![Student Admission form](./images/form.png)
 *a sample form view*
+
+# How to Install
+- Download the project files into a folder.
+- Open terminal in the project folder. In some Linux distros, you might need to grant permissions to the project. Do so with ` sudo chmod -R 777 ./`
+- Install project dependencies using `composer install`
+- Install Node dependencies with `npm install`
