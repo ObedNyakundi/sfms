@@ -1,4 +1,3 @@
-![SFMS logo](./images/logo_2.png)
 # School Fees Management System (SFMS)
 
 [![Dashboard](./images/dashboard_black_2.png)](https://www.youtube.com/watch?v=LAHG9zAEwDM "View Demo")
