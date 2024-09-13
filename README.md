@@ -15,3 +15,5 @@ We also created a different pooling account for the entire school where all tran
 These two statements are the summary of our entire system.
 
 # Database Structure.
+![Database Schema](./images/database.png)
+The structure of the database is as shown above.
