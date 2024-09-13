@@ -38,3 +38,7 @@ Any computer setup able to run the software specifications below.
 ## Table Sample
 ![Students Table](./images/table.png)
 *a sample table view*
+
+## Form sample
+![Student Admission form](./images/form.png)
+*a sample form view*
