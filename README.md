@@ -14,6 +14,14 @@ We also created a different pooling account for the entire school where all tran
 
 These two statements are the summary of our entire system.
 
+# Hardware Requirements
+Any computer setup able to run the software specifications below. 
+
+# Software Requirements
+- PHP v8.x^
+- Laravel 11.x^
+- Mysql - (or an alternative DBMS)
+
 # Database Structure.
 ![Database Schema](./images/database.png)
-The structure of the database is as shown above.
+*The structure of the database is as shown above.*
