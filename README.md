@@ -1,3 +1,4 @@
+![SFMS logo](./images/logo_2.png)
 # School Fees Management System (SFMS)
 
 ## Background
