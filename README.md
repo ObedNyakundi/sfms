@@ -68,5 +68,5 @@ Any computer setup able to run the software specifications below.
  ENJOY!
 
  # Special Credits
- - MCBAnks
- - AceNyakundi
+ - [MCBAnks](https://github.com/MCBANKSKE)
+ - [AceNyakundi](https://github.com/ObedNyakundi/)
