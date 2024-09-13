@@ -30,3 +30,7 @@ Any computer setup able to run the software specifications below.
 ## Landing Page
 ![Landing Page](./images/landing.png)
 *Current Landing Page Image*
+
+## Dashboard page
+![Dashboard Page](./images/dashboard_black)
+*current dashboard page image*
