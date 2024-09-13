@@ -1,6 +1,8 @@
 ![SFMS logo](./images/logo_2.png)
 # School Fees Management System (SFMS)
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LAHG9zAEwDM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Background
 Among the most challenging tasks in managing academy schools in Kenya is the task of accounting. Especially in school fees collections and managing accounting for expenses. With the change of our academic system and growing changes in technology, there is need to develop systems that are friendly, easy to use, and adaptable for future technological changes. 
 
