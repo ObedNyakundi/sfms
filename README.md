@@ -46,6 +46,27 @@ Any computer setup able to run the software specifications below.
 
 # How to Install
 - Download the project files into a folder.
-- Open terminal in the project folder. In some Linux distros, you might need to grant permissions to the project. Do so with ` sudo chmod -R 777 ./`
-- Install project dependencies using `composer install`
-- Install Node dependencies with `npm install`
+- Open terminal in the project folder. In some Linux distros, you might need to grant permissions to the project. Do so with:
+ ` sudo chmod -R 755 ./`
+- Install project dependencies using:
+ `composer install`
+- Install Node dependencies with:
+ `npm install`
+- Update the `.env` file.
+- Generate the application key:
+ `php artisan key:generate`
+- Run the database server (optional for those using sqlite)
+- Run laravel server 
+ `php artisan serve`
+- Make database migrations.
+ `php artisan migrate`
+- Seed the DB with the original values
+ `php artisan db:seed`
+- Run the jobs in the queue (optional)
+ `php artisan queue:work`
+
+ ENJOY!
+
+ # Special Credits
+ - MCBAnks
+ - AceNyakundi
