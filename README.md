@@ -34,3 +34,7 @@ Any computer setup able to run the software specifications below.
 ## Dashboard page
 ![Dashboard Page](./images/dashboard_black_2.png)
 *current dashboard page image*
+
+## Table Sample
+![Students Table](./images/table.png)
+*a sample table view*
